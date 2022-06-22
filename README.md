@@ -1,2 +1,2 @@
-﻿# Writing my details with vanilla Javascript
+﻿# Writing my details to console with vanilla Javascript
  
